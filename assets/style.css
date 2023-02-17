@@ -31,7 +31,7 @@ footer {
  }
  
  .content {
-   width: 50%;
+   width: 60%;
    margin: auto;
    font-size: larger;
  }
@@ -39,4 +39,9 @@ footer {
  li {
    text-align: left;
    margin-left: 35%;
+ }
+
+ #jdh {
+   width: 270px;
+   align-items: center;
  }
