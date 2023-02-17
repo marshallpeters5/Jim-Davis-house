@@ -6,8 +6,7 @@ body {
 
 header {
    position: sticky; 
-   height: 100px;
-   width: 100%;
+   height: auto; width: 100%;
    top: 0;
    background-color: #FF8604;
    color: white;
@@ -40,9 +39,4 @@ footer {
  li {
    text-align: left;
    margin-left: 35%;
- }
- 
- #form {
-   display: inherit;
-   align-items: center;
  }
